@@ -126,15 +126,6 @@ const Menu = [
     category: "dinner",
     price: "12rs",
     description: " Here we see that an element with greater stack order is always above an element with a lower stack order",
-},
-
-{
-    id: 13,
-    image: "images/maggi.jpg",
-    name: "maggi",
-    category: "vijay",
-    price: "12rs",
-    description: " Here we see that an element with greater stack order is always above an element with a lower stack order",
 }
 
 ];
